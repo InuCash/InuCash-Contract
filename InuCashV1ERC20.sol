@@ -1,3 +1,15 @@
+/**
+ *Submitted for verification at BscScan.com on 2021-06-01
+*/
+
+/**
+   Features:
+   3% fee auto add to the liquidity pool to locked forever when selling
+   2% fee auto distribute to all holders
+   4% Deflate rate on supply with every transaction
+   50% Supply is burned at start.
+ */
+
 pragma solidity ^0.6.12;
 
 import "./utils/Context.sol";
