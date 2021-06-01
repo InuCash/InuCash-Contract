@@ -4,9 +4,9 @@
 
 /**
    Features:
-   3% fee auto add to the liquidity pool to locked forever when selling
-   2% fee auto distribute to all holders
-   4% Deflate rate on supply with every transaction
+   3% trasnaction fee auto add to the liquidity pool to locked forever when selling.
+   2% reward fee auto distribute to all holders.
+   4% deflate rate on supply with every transaction.
    50% Supply is burned at start.
  */
 
